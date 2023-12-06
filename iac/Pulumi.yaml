@@ -1,0 +1,6 @@
+name: blobprocessor
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A Azure project for the BlobProcessor serverless application

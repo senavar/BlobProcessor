@@ -1,0 +1,3 @@
+config:
+  blobprocessor:location: centralus
+  blobprocessor:environment: dev
