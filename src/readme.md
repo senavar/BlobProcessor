@@ -9,7 +9,7 @@ When a new blob is added to the specified container, the function retrieves the 
 ## How to Use
 
 1. Set up your Azure Blob Storage and Azure Table Storage.
-2. Set the following environment variables:
+2. Set the following environment variables via application settings:
     - `ObjectStorageConnection`: The connection string for your Azure Storage account.
     - `ObjectContainerStorageName`: The name of the blob container in your Azure Storage account.
     - `ObjectTableStorageName`: The name of the table in your Azure Table Storage.
